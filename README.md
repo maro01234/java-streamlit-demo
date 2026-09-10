@@ -84,6 +84,9 @@ button.addClickListener(e ->
 add(name, button, result);
 ```
 
+## 6. オンラインデモ
+https://java-streamlit-demo.onrender.com/
+
 ## 次に追加しやすい機能
 
 - URL入力 → Seleniumでスクリーンショット取得
